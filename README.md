@@ -53,7 +53,7 @@ No 12-person dev team. No investor. No co-founder.
 Just code and clarity.
 
 ---
-````markdown
+
 ## How to Set It Up For Yourself 
 
 ### ✅ If you already have Python:
