@@ -62,7 +62,8 @@ Just code and clarity.
 
    ```bash
    git clone https://github.com/your-org/skyway-realty-ai.git
-   cd skyway-realty-ai ````
+   cd skyway-realty-ai
+   ```
 
 2. **Create a virtual environment**
 
@@ -84,10 +85,10 @@ Just code and clarity.
    Create a `.env` file at the root:
 
    ```env
-OPENAI_API_KEY="your-openai-key"
-BOOKING_LINK="-your-make.com-booking -link"
-PROPERTY_INFO="property-database-file-path”
-COMPANY_INFO="your-property-info-file-path”
+   OPENAI_API_KEY="your-openai-key"
+   BOOKING_LINK="-your-make.com-booking -link"
+   PROPERTY_INFO="property-database-file-path”
+   COMPANY_INFO="your-property-info-file-path”
    ```
 
 5. **Run the app**
@@ -139,7 +140,6 @@ You can either…
 
 You’ll never go back.
 
----
 
 If You want help setting up one for your business, I would happy to help you with one free of Charge.
 So 
