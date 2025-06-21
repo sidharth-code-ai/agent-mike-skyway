@@ -140,13 +140,22 @@ You can either…
 
 You’ll never go back.
 
+## How Can I Help you
 
-If You want help setting up one for your business, I would happy to help you with one free of Charge.
-So 
+If something like this would save you time — I’m happy to help you set it up.  
+I will personaly  tailor it to your workflow, your tools, your business.
 
-Your time is expensive.
-Act like it.
+No code needed. No tech stress. Just something that actually works.
 
+Shoot me a quick note: **sidharth.talora@gmail.com**  
+Or grab a time to chat: [cal.com/sidharth-have-chat](https://cal.com/sidharth-have-chat/session?overlayCalendar=true)
+
+So I can share some real value even if you don't want it.
+
+Happy to share what’s worked, what hasn’t, and how you could use something like this in your own business.
+
+Your Time is expensive.
+Act Like it.
 
 
 
