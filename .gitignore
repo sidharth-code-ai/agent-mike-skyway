@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+.env.local
+
+# VSCode settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit stuff
+.streamlit/
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# Compiled files
+*.so
+*.dll
+*.exe
+*.out
+*.a
+
+# Mac system files
+*.DS_Store
+
+# IDE folders
+.idea/
