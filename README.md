@@ -1,6 +1,5 @@
 
 
-````markdown
 # If You’re Doing Everything Yourself, You’re Doing It Wrong.
 
 You don’t need more time.  
